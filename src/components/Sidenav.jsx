@@ -40,7 +40,7 @@ const Sidenav = () => {
                             className="nav-item"
                         >
                             {icon}
-                            {hoveredItem === label && <span className="label">{label}</span>}
+                            <span className="label">{label}</span>
                         </a>
                     ))}
                 </div>
