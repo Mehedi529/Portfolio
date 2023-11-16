@@ -5,7 +5,7 @@ import React from 'react';
 
 const Resume = () => {
   // Replace 'your_resume_link' with the actual link you obtained
-  const resumeLink = 'https://drive.google.com/file/d/1Nw4n5XEOAsYByJ4-PHWikXNE7uU0X3V1/view?usp=sharing';
+  const resumeLink = '';
 
   const downloadResume = () => {
     window.open(resumeLink, '_blank');
