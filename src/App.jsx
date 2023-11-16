@@ -3,7 +3,7 @@ import Main from "./components/Main"
 import Projects from "./components/Projects"
 import Resume from "./components/Resume"
 import Sidenav from "./components/Sidenav"
-import Work from "./components/Work"
+// import Work from "./components/Work"
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
     <>
       <Sidenav/>
       <Main />
-      <Work />
+      {/* <Work /> */}
       <Projects />
       <Resume />
       <Contact />
