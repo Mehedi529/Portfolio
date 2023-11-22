@@ -8,7 +8,7 @@ const Resume = () => {
   const resumeLink = '';
 
   const downloadResume = () => {
-    window.open(resumeLink, '_blank');
+    window.open('https://drive.google.com/drive/u/2/my-drive', '_blank');
   };
 
   return (
