@@ -12,7 +12,7 @@ const Contact = () => {
           Contact
         </h1>
         <div className="bg-green-200 text-green-800 p-4 rounded-md">
-          Thanks for joining!
+          Thanks for Sending Message!
         </div>
       </div>
     );
