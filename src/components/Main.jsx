@@ -37,10 +37,10 @@ const Main = () => {
                         <a href="#twitter" target="_blank">
                            <FaTwitter className="cursor-pointer" size={20} />
                         </a>
-                        <a href="https://www.facebook.com/mehedihasan.anik.982845" target="_blank">
+                        <a href="https://www.facebook.com/" target="_blank">
                            <FaFacebookF className="cursor-pointer" size={20} />
                         </a>
-                        <a href="https://www.instagram.com/mehasan4275/" target="_blank">
+                        <a href="https://www.instagram.com/" target="_blank">
                            <FaInstagram className="cursor-pointer" size={20}/>
                         </a>
                         <a href="https://www.linkedin.com/in/md-mehedi-hasan-328121283/" target="_blank">
